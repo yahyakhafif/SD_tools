@@ -6,3 +6,4 @@
 -Salmon
 -Milk
 -Sugar
+-Eggs
